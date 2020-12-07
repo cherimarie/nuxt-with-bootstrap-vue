@@ -4,8 +4,8 @@
       <h1 class="title">
         cheri-bootstrap-nuxt
       </h1>
-      <p>text goes here</p>
-      <button class="danger">danger?</button>
+      <p>Example text</p>
+      <b-button variant="danger">Button</b-button>
     </div>
   </div>
 </template>
